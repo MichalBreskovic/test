@@ -1,0 +1,31 @@
+9 5 1 1 E 99
+
+W 2 2 S
+W 2 2 E
+W 2 2 W
+W 2 3 N
+W 2 3 W
+W 2 4 E
+
+W 4 2 S
+W 4 2 E
+W 4 2 W
+W 6 2 S
+W 6 2 E
+W 6 2 W 
+W 5 3 W
+W 5 3 E
+W 5 4 W
+W 5 4 E
+W 4 5 S
+W 4 5 W
+
+W 6 5 S
+W 6 5 E
+W 8 2 W
+W 8 2 E
+W 8 3 W
+W 8 4 W
+W 8 4 E
+W 8 5 W
+
